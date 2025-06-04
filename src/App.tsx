@@ -1,4 +1,4 @@
-import React from 'react';
+
 import SkipSelector from './components/SkipSelector';
 import FAQ from './components/FAQ';
 
